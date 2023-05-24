@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 👨‍💻 All of my projects are available at [https://hamxa678.github.io/portfolio.github.io/](https://hamxa678.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://tinyurl.com/2xyeymfy](https://tinyurl.com/2xyeymfy)
 
 - 💬 Ask me about **Flutter, Machine Learning**
 

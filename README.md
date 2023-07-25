@@ -1,5 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG0UJD03tdwbw/profile-displaybackgroundimage-shrink_350_1400/0/1683057888641?e=1689811200&v=beta&t=eGd7vq0FmtyVPq45wKyNjrtacb0DYgpY2ZQDoU1BO24)](https://rishavchanda.io)
-<h1 align="center">👋🌍!, I'm Hamza Khan</h1>
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGsZeEXYvcR0w/profile-displaybackgroundimage-shrink_350_1400/0/1687710731643?e=1695859200&v=beta&t=-zVudReS0RoUdnsJP2CNZozRgs3IlpQ7Wo_ofOlxe0E)
+<h1 align="center">I'm Hamza Khan</h1>
 <h3 align="center">A passionate Flutter Developer from Pakistan.</h3>
 
 - 🔭 I’m currently working at **AntonX as Jr. Software Engineer**

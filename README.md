@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at **AntonX as Jr. Software Engineer**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.Node.js**
 
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/2xyeymfy](https://tinyurl.com/2xyeymfy)
 

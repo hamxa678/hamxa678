@@ -4,12 +4,6 @@
 
 - 🔭 I’m currently working at **AntonX as Jr. Software Engineer**
 
-- 🌱 I’m currently learning **.Node.js**
-
-- 👨‍💻 All of my projects are available at [https://tinyurl.com/2xyeymfy](https://tinyurl.com/2xyeymfy)
-
-- 💬 Ask me about **Flutter, Machine Learning**
-
 - 📫 How to reach me **hamxa678@gmail.com**
 
 ## Connect with me
